@@ -6,6 +6,5 @@
 - 🤔 I’m looking for help with backend project
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mithunmunsi/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: .Mit..Hun.
 
