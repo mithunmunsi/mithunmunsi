@@ -20,8 +20,9 @@ const Hero = () => {
                   </div>
                   <div data-swiper-parallax="400" className="slide-text">
                     <p>
-                      Must explain to how all this mistaken idea denouncing
-                      pleasure pain the system and expound the actua.
+                      My expertise spans across front-end and back-end
+                      development, with proficiency in HTML5, CSS3, Sass,
+                      JavaScript, React, Node.js Express, and MongoDB.
                     </p>
                   </div>
                   <div className="clearfix"></div>
@@ -61,7 +62,7 @@ const Hero = () => {
               </div>
               <div className="p-text">
                 <h3>
-                  <span data-count="1500">1500</span>+
+                  <span data-count="1500">15</span>+
                 </h3>
                 <p>Complete Project</p>
               </div>
