@@ -37,7 +37,7 @@ const About = (props) => {
                     <h3>
                       <span data-count="98">98</span>%
                     </h3>
-                    <p>Figma</p>
+                    <p>HTML5</p>
                   </div>
                 </div>
                 <div className="grid">
@@ -45,7 +45,7 @@ const About = (props) => {
                     <h3>
                       <span data-count="92">92</span>%
                     </h3>
-                    <p>Sketch</p>
+                    <p>CSS3</p>
                   </div>
                 </div>
                 <div className="grid">
@@ -53,31 +53,31 @@ const About = (props) => {
                     <h3>
                       <span data-count="88">88</span>%
                     </h3>
-                    <p>Photoshop</p>
+                    <p>JavaScript</p>
                   </div>
                 </div>
                 <div className="grid">
                   <div className="grid-inner">
                     <h3>
-                      <span data-count="72">72</span>%
-                    </h3>
-                    <p>Illustrator</p>
-                  </div>
-                </div>
-                <div className="grid">
-                  <div className="grid-inner">
-                    <h3>
-                      <span data-count="43">43</span>%
-                    </h3>
-                    <p>WordPress</p>
-                  </div>
-                </div>
-                <div className="grid">
-                  <div className="grid-inner">
-                    <h3>
-                      <span data-count="37">37</span>%
+                      <span data-count="72">82</span>%
                     </h3>
                     <p>ReactJS</p>
+                  </div>
+                </div>
+                <div className="grid">
+                  <div className="grid-inner">
+                    <h3>
+                      <span data-count="43">73</span>%
+                    </h3>
+                    <p>MongoDB</p>
+                  </div>
+                </div>
+                <div className="grid">
+                  <div className="grid-inner">
+                    <h3>
+                      <span data-count="37">77</span>%
+                    </h3>
+                    <p>TypeScript</p>
                   </div>
                 </div>
               </div>
