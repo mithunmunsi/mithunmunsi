@@ -4,7 +4,6 @@ Theme Name:  Elito - Creative Portfolio React Template
 Version:        1.0.0
 -------------------------------------------------------------------*/
 
-
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
 ----------------------------------------------------------------
@@ -29,29 +28,22 @@ Version:        1.0.0
 
 4. wpo-footer
 
-5. Home-style-2
-   5.1 wpo-about-area-s2
-   5.2 wpo-service-area-s2
-   5.3 wpo-work-area-s2
-   5.4 partners-section
+5. wpo-service-single
 
-6. wpo-service-single
+6. wpo-protfolio-area
 
-7. wpo-protfolio-area
+7. wpo-project-single
 
-8. wpo-project-single
+8. wpo-blog-pg-section
 
-9. wpo-blog-pg-section
+9. wpo-blog-single-section
 
-10. wpo-blog-single-section
+10. wpo-contact-pg-section
 
-11. wpo-contact-pg-section
-
-12. error-404-section
+11. error-404-section
 
 
 ----------------------------------------------------------------*/
-
 
 /*------------------------------------------------------------------
 1. General
@@ -64,7 +56,6 @@ Version:        1.0.0
 
 // base
 @import "base/base";
-
 
 // components
 @import "components/section-title";
@@ -79,13 +70,6 @@ Version:        1.0.0
 
 // page
 @import "page/home-default";
-@import "page/home-style-2";
 @import "page/service-single";
 @import "page/portfolio-single";
 @import "page/blog-single";
-
-
-
-
-
-
