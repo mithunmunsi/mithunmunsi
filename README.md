@@ -1,28 +1,76 @@
-# Hi 👋, I'm Mithun Munsi and Welcome to my GitHub profile!!
+# 👋 Hi, I'm Mithun Munsi
 
-### I am a passionate full-stack web developer currently based in Finland, Graduated from Business College Helsinki in Sowftware Development. Originally from Bangladesh, I bring a diverse skill set to the table, specializing in modern web development technologies. My expertise spans across front-end and back-end development, with proficiency in HTML5, CSS3, Sass, JavaScript, React, Node.js Express, and MongoDB.
+## 🚀 Full-Stack Web Developer | 🇫🇮 Finland | 🇧🇩 Bangladesh
 
-### In addition to my core web development skills, I have extensive experience with essential tools and technologies such as Git, DNS management, Docker, Jenkins, CI/CD pipelines, and GitHub Actions, enabling me to streamline workflows and improve development efficiency. My skills extend beyond coding into areas like SEO, Adobe Photoshop, Figma, and WordPress, giving me a well-rounded approach to creating user-friendly and optimized web experiences.
+---
 
-### I am also adept at utilizing social media platforms such as Facebook, Twitter, Instagram, LinkedIn, and YouTube for effective marketing and engagement strategies, helping businesses connect with their audiences online. Whether working on collaborative projects or independent ones, I am always excited to create innovative digital solutions that align with both business and user needs.
+## 🧑‍💻 About Me
 
-#### 🔭 I’m currently practicing on my own company Nextby
+- 🔭 Currently building and practicing at **Nextby**
+- 🌱 Graduated in Software Development
+- 👯 Open to collaboration
+- 🤝 Looking for help with backend architecture
+- 💬 Ask me about Full-Stack Development
 
-#### 🌱 I’m completed graduation in Software Development
+---
 
-#### 👯 I’m looking to collaborate on projects
+## 🛠️ Tech Stack
 
-#### 🤔 I’m looking for help with backend project
+### 🚀 Frontend
 
-#### 💬 Ask me about anything
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### 📫 How to reach me:
+### 🔧 Backend
 
-1. [Facebook](https://facebook.com/mithun.munsi)
-2. [Instagram](https://instagram.com/mithun.munsi)
-3. [Twitter](https://x.com/mithunmunsi)
-4. [LinkedIn](https://www.linkedin.com/in/mithunmunsi)
-5. [YouTube](https://www.youtube.com/@mithunmunsi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- Direct Contact: mithun.munsi@hotmail.com
-- Visit Personal Web: [mithunmunsi.com](mithunmunsi.com)
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 🎨 Other Skills
+
+![SEO](https://img.shields.io/badge/SEO-0A66C2?style=for-the-badge)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Mithun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mithunmunsi&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithunmunsi&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mithunmunsi&theme=tokyonight&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mithunmunsi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithunmunsi)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mithun.munsi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mithun.munsi)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mithunmunsi)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mithunmunsi)
+
+---
+
+## 💡 Motto
+
+> Building scalable web applications that align business goals with user experience.
