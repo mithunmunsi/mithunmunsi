@@ -2,8 +2,6 @@
 
 ### Full-Stack Web Developer | React • Node.js • MongoDB | Based in Finland 🇫🇮
 
-![Profile Views](https://komarev.com/ghpvc/?username=mithunmunsi&label=Profile%20Views&color=0e75b6&style=flat)
-
 ---
 
 ## 👨‍💻 Professional Summary
@@ -50,20 +48,6 @@ I specialize in building secure, high-performance, and user-centric web applicat
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mithunmunsi&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithunmunsi&layout=compact&theme=default&hide_border=true)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mithunmunsi&theme=default&hide_border=true)
-
----
-
 ## 🏢 Current Focus
 
 - Building and scaling projects under my company **Nextby**
@@ -88,11 +72,19 @@ I am open to:
 
 - 🌐 Website: https://mithunmunsi.com
 - 📧 Email: mithun.munsi@hotmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/mithunmunsi
-- 🐦 Twitter (X): https://x.com/mithunmunsi
+- 💼 [LinkedIn](https://linkedin.com/in/mithunmunsi)
+- 🐦 [Twitter (X)](https://x.com/mithunmunsi)
 
 ---
 
 ### 💡 Professional Philosophy
 
 > Clean code. Scalable systems. Business-driven development.
+
+![Profile Views](https://komarev.com/ghpvc/?username=mithunmunsi&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mithunmunsi&theme=default&hide_border=true)
