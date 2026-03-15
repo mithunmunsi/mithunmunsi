@@ -9,7 +9,6 @@ const SubmitHandler = (e) => {
 const Footer = (props) => {
   return (
     <footer className="wpo-site-footer">
-      <CtaSection />
       <div className="upper-footer">
         <div className="container">
           <div className="row">
