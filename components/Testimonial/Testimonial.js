@@ -5,48 +5,48 @@ const testimonial = [
   {
     id: "01",
     tImg: "images/testimonial/img-1.jpg",
-    tTitle: "Many desktop publishing packages and editors now use as their.",
-    Des: "It is a long established fact that a reader will be distracted by the readable content of page when looking at its layout point of using is that it has more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making look like readable English.",
+    tTitle: "Excellent Web Development Service – Highly Satisfied",
+    Des: "Working with this web development agency was a great experience. Their team demonstrated excellent professionalism, technical expertise, and attention to detail throughout the entire project. They understood my requirements clearly and delivered a high-quality website that exceeded my expectations.",
     Title: "Sohel Hossain",
     Sub: "Founder, ClickAccount",
   },
   {
     id: "02",
     tImg: "images/testimonial/img-2.jpg",
-    tTitle: "Many desktop publishing packages and editors now use as their.",
-    Des: "It is a long established fact that a reader will be distracted by the readable content of page when looking at its layout point of using is that it has more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making look like readable English.",
+    tTitle: "Professional and Reliable Team.",
+    Des: "The team delivered exactly what I needed. They were professional, responsive, and completed the project on time. I’m very happy with the quality of the website they built for me.",
     Title: "Harry Abraham",
     Sub: "SCG First Company",
   },
   {
     id: "03",
     tImg: "images/testimonial/img-3.jpg",
-    tTitle: "Many desktop publishing packages and editors now use as their.",
-    Des: "It is a long established fact that a reader will be distracted by the readable content of page when looking at its layout point of using is that it has more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making look like readable English.",
+    tTitle: "Great Experience Working Together",
+    Des: "I had a very positive experience working with this agency. They understood my ideas quickly and turned them into a beautiful and functional website. Highly satisfied with their work.",
     Title: "Benjir Walton",
     Sub: "Merketer",
   },
   {
     id: "04",
     tImg: "images/testimonial/img-4.jpg",
-    tTitle: "Many desktop publishing packages and editors now use as their.",
-    Des: "It is a long established fact that a reader will be distracted by the readable content of page when looking at its layout point of using is that it has more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making look like readable English.",
+    tTitle: "High-Quality Web Development",
+    Des: "The agency did an excellent job on my website. The design is modern, the performance is great, and everything works perfectly. I truly appreciate their effort and expertise.",
     Title: "Benjir Walton",
     Sub: "Merketer",
   },
   {
     id: "05",
     tImg: "images/testimonial/img-5.jpg",
-    tTitle: "Many desktop publishing packages and editors now use as their.",
-    Des: "It is a long established fact that a reader will be distracted by the readable content of page when looking at its layout point of using is that it has more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making look like readable English.",
+    tTitle: "Fast, Efficient, and Skilled",
+    Des: "The team worked efficiently and delivered a high-quality website within the promised time. Their technical skills and communication made the whole process smooth.",
     Title: "Benjir Walton",
     Sub: "Merketer",
   },
   {
     id: "06",
     tImg: "images/testimonial/img-6.jpg",
-    tTitle: "Many desktop publishing packages and editors now use as their.",
-    Des: "It is a long established fact that a reader will be distracted by the readable content of page when looking at its layout point of using is that it has more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making look like readable English.",
+    tTitle: "Highly Recommended Service",
+    Des: "I’m very satisfied with the results. The team was supportive, creative, and professional throughout the project. I would definitely recommend their services to others.",
     Title: "Benjir Walton",
     Sub: "Merketer",
   },
@@ -57,7 +57,10 @@ const Testimonial = () => {
   const [nav2, setNav2] = useState();
 
   return (
-    <section className="wpo-testimonial-section section-padding">
+    <section
+      className="wpo-testimonial-section section-padding"
+      id="testimonial"
+    >
       <div className="container">
         <div className="wpo-testimonial-wrap">
           <div className="row align-items-center">

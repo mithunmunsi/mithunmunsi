@@ -111,8 +111,13 @@ const Footer = (props) => {
                     </Link>
                   </li>
                   <li>
-                    <Link to="contact" spy={true} smooth={true} duration={500}>
-                      Contact us
+                    <Link
+                      to="experience"
+                      spy={true}
+                      smooth={true}
+                      duration={500}
+                    >
+                      Experience
                     </Link>
                   </li>
                   <li>
@@ -126,8 +131,13 @@ const Footer = (props) => {
                     </Link>
                   </li>
                   <li>
-                    <Link to="blog" spy={true} smooth={true} duration={500}>
-                      Recent Post
+                    <Link
+                      to="testimonial"
+                      spy={true}
+                      smooth={true}
+                      duration={500}
+                    >
+                      Testimonial
                     </Link>
                   </li>
                 </ul>
@@ -136,7 +146,7 @@ const Footer = (props) => {
             <div className="col col-lg-3 col-md-6 col-12">
               <div className="widget link-widget service-link-widget">
                 <div className="widget-title">
-                  <h3>Other Sites</h3>
+                  <h3>Other Brands</h3>
                 </div>
                 <ul>
                   <li>

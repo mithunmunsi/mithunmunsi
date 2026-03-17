@@ -52,6 +52,17 @@ const Header = (props) => {
                         About
                       </Link>
                     </li>
+                    <li>
+                      <Link
+                        activeClass="active"
+                        to="experience"
+                        spy={true}
+                        smooth={true}
+                        duration={500}
+                      >
+                        Experience
+                      </Link>
+                    </li>
 
                     <li>
                       <Link
@@ -63,6 +74,17 @@ const Header = (props) => {
                         onClick={ClickHandler}
                       >
                         Portfolio
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        activeClass="active"
+                        to="testimonial"
+                        spy={true}
+                        smooth={true}
+                        duration={500}
+                      >
+                        Testimonial
                       </Link>
                     </li>
                   </ul>
