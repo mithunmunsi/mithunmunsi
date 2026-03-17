@@ -21,8 +21,8 @@ const Footer = (props) => {
                   </Link>
                 </div>
                 <p>
-                  Full-Stack Web Developer | Building RedX & NextBuy | SEO &
-                  Digital Growth 🚀
+                  Full-Stack Web Developer | Building RedX & NextBuy with Node
+                  Express React MongoDB | SEO & Digital Growth 🚀 CEO - NEXTBY
                 </p>
                 <div className="social-icons">
                   <ul>

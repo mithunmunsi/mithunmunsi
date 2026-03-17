@@ -27,15 +27,14 @@ const Hero = () => {
                   </div>
                   <div className="clearfix"></div>
                   <div className="slide-btn">
-                    <Link
+                    <a
                       className="theme-btn"
-                      to="contact"
-                      spy={true}
-                      smooth={true}
-                      duration={500}
+                      href="https://www.upwork.com/freelancers/~0111c533649e8bfc28?viewMode=1&mp_source=share"
+                      target="_blank"
+                      rel="noopener noreferrer"
                     >
                       Hire Me
-                    </Link>
+                    </a>
                   </div>
                 </div>
               </div>
