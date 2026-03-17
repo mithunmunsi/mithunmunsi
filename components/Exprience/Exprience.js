@@ -4,6 +4,14 @@ import SectionTitle from "../SectionTitle/SectionTitle";
 
 const Expriences = [
   {
+    date: "2020 - Present",
+    logo: "images/work/4.png",
+    position: "CEO, NEXTBY",
+    companyName: "NEXTBY, Finland",
+    workFrom: "",
+    url: "https://nextby.fi",
+  },
+  {
     date: "2024 - 2025",
     logo: "images/work/1.png",
     position: "Web Developer",
@@ -26,14 +34,6 @@ const Expriences = [
     companyName: "Intelligent Image Management Ltd., Bangladesh",
     workFrom: "(On-site)",
     url: "https://www.iimdirect.com",
-  },
-  {
-    date: "2020 - Present",
-    logo: "images/work/4.png",
-    position: "CEO, NEXTBY",
-    companyName: "NEXTBY, Finland",
-    workFrom: "(Home)",
-    url: "https://nextby.fi",
   },
 ];
 
